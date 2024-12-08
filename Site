@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publicité & Shop - Bot Discord</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f3f3f3;
+            color: #333;
+        }
+        header {
+            background: #4e54c8;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        header p {
+            margin: 5px 0 0;
+            font-size: 1.2rem;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #6c6fef;
+            padding: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 1.2rem;
+            transition: color 0.3s;
+        }
+        nav a:hover {
+            color: #ffdf6c;
+        }
+        .container {
+            padding: 20px;
+        }
+        .section {
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            background: white;
+        }
+        .section h2 {
+            margin: 0 0 10px;
+            font-size: 2rem;
+            color: #4e54c8;
+        }
+        .section p {
+            margin: 10px 0;
+            line-height: 1.6;
+        }
+        .cta {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .cta a {
+            display: inline-block;
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            color: white;
+            background: #4e54c8;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background 0.3s;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+        }
+        .cta a:hover {
+            background: #6c6fef;
+        }
+        footer {
+            background: #4e54c8;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mon Bot Publicitaire & Shop</h1>
+        <p>Gérez vos publicités et achetez des services exclusifs facilement !</p>
+    </header>
+    <nav>
+        <a href="#bot">Le Bot</a>
+        <a href="#description">Description du Bot</a>
+        <a href="#shop">Shop</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container">
+        <!-- Section Bot -->
+        <div class="section" id="bot">
+            <h2>📢 Présentation du Bot</h2>
+            <p>Notre bot publicitaire est conçu pour vous aider à gérer efficacement vos campagnes publicitaires sur Discord. Il propose des outils avancés pour diffuser vos annonces, attirer de nouveaux membres et optimiser la visibilité de vos serveurs.</p>
+            <p>Fonctionnalités principales :</p>
+            <ul>
+                <li>🔹 Diffusion automatisée d'annonces</li>
+                <li>🔹 Analyse des performances publicitaires</li>
+                <li>🔹 Gestion des partenariats</li>
+            </ul>
+            <div class="cta">
+                <a href="https://discord.gg/shop2hiver" target="_blank">Inviter le Bot</a>
+            </div>
+        </div>
+
+        <!-- Section Description du Bot -->
+        <div class="section" id="description">
+            <h2>🤖 Description du Bot</h2>
+            <p>El Moonly Bot est une solution complète pour améliorer la gestion de vos publicités et la croissance de votre serveur Discord. Ce bot intelligent est conçu pour automatiser l'envoi de publicités, la gestion des articles du shop et fournir des outils de personnalisation pour répondre à tous vos besoins.</p>
+            
+            <h3>📈 Fonctionnalités avancées :</h3>
+            <ul>
+                <li>🔹 Publicités Automatisées : El Moonly permet d'automatiser l'envoi de publicités dans des salons spécifiques et de gérer les horaires de diffusion pour atteindre un maximum d'audience.</li>
+                <li>🔹 Analyse des Campagnes : Suivez les performances de vos campagnes publicitaires en temps réel grâce à des statistiques détaillées sur l'engagement des utilisateurs.</li>
+                <li>🔹 Personnalisation Totale : Le bot s'adapte à vos besoins en offrant une personnalisation des salons, des messages, et même des horaires de diffusion des annonces.</li>
+                <li>🔹 Gestion des Partenariats : Le bot facilite la gestion des partenariats avec d'autres serveurs en automatisant l'échange de publicités et en suivant les accords passés.</li>
+                <li>🔹 Boutique Discord Intégrée : Achetez des services exclusifs directement via le bot, comme des Nitro, des boosts de serveur, des membres gratuits, des décorations de salons, et bien plus.</li>
+            </ul>
+
+            <h3>💡 Pourquoi choisir El Moonly Bot ?</h3>
+            <p>Ce bot est plus qu'une simple solution de publicité. Il vous permet de gérer toutes les opérations liées à l'amélioration de votre serveur Discord de manière centralisée et automatisée. De la gestion de publicités à la vente de services via la boutique intégrée, El Moonly Bot est votre assistant ultime pour faire croître votre serveur et augmenter son activité.</p>
+
+            <p>🔧 Hébergement Inclus : Nous nous occupons de l'hébergement et des mises à jour du bot, vous permettant de vous concentrer sur la gestion de votre serveur sans souci.</p>
+            <p>🚀 Mises à Jour Régulières : Nous mettons régulièrement à jour le bot pour introduire de nouvelles fonctionnalités et garantir qu'il reste à la pointe de la technologie.</p>
+
+            <div class="cta">
+                <a href="https://discord.gg/shop2hiver" target="_blank">Inviter le Bot</a>
+            </div>
+        </div>
+
+        <!-- Section Shop -->
+        <div class="section" id="shop">
+            <h2>🛒 Shop - Nos Services</h2>
+            <p>Découvrez nos services premium pour booster votre expérience sur Discord :</p>
+            <ul>
+                <li>💎 Nitro Discord</li>
+                <li>🚀 Boosts de serveur</li>
+                <li>👥 Membres gratuits pour vos serveurs</li>
+                <li>📈 Flows TikTok, Twitch, et YouTube</li>
+                <li>🎨 Décorations et personnalisations pour vos salons</li>
+                <li>🤖 Bot publicitaire personnalisé : Création sur mesure avec hébergement et mises à jour inclus.</li>
+            </ul>
+            <p>🔥 OFFRE SPÉCIALE : Un article offert pour chaque achat (hors nitro et décoration).</p>
+            <div class="cta">
+                <a href="https://discord.gg/shop2hiver" target="_blank">Rejoindre le Shop</a>
+            </div>
+        </div>
+
+        <!-- Section Contact -->
+        <div class="section" id="contact">
+            <h2>📬 Contactez-nous</h2>
+            <p>Une question ou besoin d'assistance ? Rejoignez notre serveur ou envoyez-nous un message directement sur Discord !</p>
+            <div class="cta">
+                <a href="https://discord.gg/shop2hiver" target="_blank">Nous Contacter</a>
+            </div>
+        </div>
+    </div>
+    <footer>
+        © 2024 Mon Bot Publicitaire & Shop - Créé par @vacteici
+    </footer>
+</body>
+</html>
